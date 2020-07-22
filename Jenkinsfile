@@ -17,4 +17,5 @@ pipeline {
 		sh 'docker run --rm -v $(pwd):/workspace -w /workspace c50 /c5.0 -f adult'
             }
         }
+    }
  }

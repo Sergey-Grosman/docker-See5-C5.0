@@ -15,5 +15,6 @@ How to use this container, demonstraited on the well known example of income pre
         
 Improvements are wellcome
 
-For the first couple of month I run this build as a testcase in my Jenkins:
+For the first couple of months I run this build as a testcase in my Jenkins:
+
 https://www.tmcombi.org/jenkins/job/docker-See5-C5.0/

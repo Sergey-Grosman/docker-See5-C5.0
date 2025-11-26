@@ -14,7 +14,3 @@ How to use this container, demonstraited on the well known example of income pre
         docker run --rm -v $(pwd):/workspace -w /workspace c50 /c5.0 -f adult
         
 Improvements are wellcome
-
-For the first couple of months I run this build as a testcase in my Jenkins:
-
-https://www.tmcombi.org/jenkins/job/docker-See5-C5.0/
